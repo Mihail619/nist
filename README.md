@@ -1,2 +1,2 @@
 # nist
-First app using syllables and number detection
+First app for syllables and number detection
